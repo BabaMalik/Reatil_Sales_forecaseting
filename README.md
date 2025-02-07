@@ -111,7 +111,7 @@ Store_Sales_Time_Series_Forecasting/
 ### **Want to Contribute?**
 Feel free to **fork the repository**, make improvements, and submit a **pull request**!
 
-📧 Contact: [Your Email] | 💻 GitHub: [YourUsername]
+📧 Contact:_____ | 💻 GitHub: BabaMalik
 
 ---
 🚀 **Thank you for checking out the project!** Hope it helps in understanding store sales forecasting! 🔥
