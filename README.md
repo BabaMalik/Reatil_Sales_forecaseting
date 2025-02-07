@@ -1,5 +1,4 @@
-
-# Retail Sales Forecasting
+# Store Sales - Time Series Forecasting
 
 ## 📌 Project Overview
 Retail sales forecasting is essential for optimizing inventory, managing supply chains, and increasing revenue. This project predicts sales for thousands of product families sold in Favorita stores in Ecuador. Using machine learning techniques like **SGDRegressor**, **LSTM (Long Short-Term Memory Networks)**, and **SVM (Support Vector Machine)**, we aim to improve sales prediction accuracy.
@@ -30,12 +29,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow tqdm
 ```
 ### **2️⃣ Clone the Repository & Navigate to the Folder**
 ```bash
-git clone https://github.com/yourusername/retail-sales-forecasting.git
-cd retail-sales-forecasting
+git clone https://github.com/yourusername/store-sales-time-series-forecasting.git
+cd store-sales-time-series-forecasting
 ```
 ### **3️⃣ Run the Jupyter Notebook**
 ```bash
-jupyter notebook retail_sales_forecasting.ipynb
+jupyter notebook store_sales_forecasting.ipynb
 ```
 
 ## 🔍 Exploratory Data Analysis (EDA)
@@ -76,7 +75,7 @@ We implemented **three models** to predict sales:
 
 ## 📂 Project Structure
 ```
-Retail_Sales_Forecasting/
+Store_Sales_Time_Series_Forecasting/
 │
 ├── data/
 │   ├── train.csv
@@ -87,7 +86,7 @@ Retail_Sales_Forecasting/
 │   ├── transactions.csv
 │
 ├── notebooks/
-│   ├── retail_sales_forecasting.ipynb
+│   ├── store_sales_forecasting.ipynb
 │
 ├── models/
 │   ├── sgd_model.pkl
@@ -115,7 +114,7 @@ Feel free to **fork the repository**, make improvements, and submit a **pull req
 📧 Contact: [Your Email] | 💻 GitHub: [YourUsername]
 
 ---
-🚀 **Thank you for checking out the project!** Hope it helps in understanding retail sales forecasting! 🔥
+🚀 **Thank you for checking out the project!** Hope it helps in understanding store sales forecasting! 🔥
 
 
 #### https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
